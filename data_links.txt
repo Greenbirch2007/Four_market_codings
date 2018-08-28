@@ -1,0 +1,25 @@
+
+
+
+
+日股业绩预报
+
+http://www.daiwa.jp/market/calendar/  （爬取业绩预报）
+
+
+个股连续营收
+http://www.daiwa.jp/market/calendar/  （爬取业绩预报）
+
+
+
+雪球美股
+https://xueqiu.com/S/GE/income
+
+
+
+
+
+
+阿斯达克财经 港股
+http://www.aastocks.com/tc/stocks/analysis/company-fundamental/profit-loss?symbol=00700&period=0
+
